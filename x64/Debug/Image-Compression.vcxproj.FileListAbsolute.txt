@@ -1,2 +1,0 @@
-C:\Users\Vansh\source\repos\Image-Compression\x64\Debug\Image-Compression.exe
-C:\Users\Vansh\source\repos\Image-Compression\x64\Debug\Image-Compression.pdb
