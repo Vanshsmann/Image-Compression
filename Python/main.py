@@ -7,6 +7,7 @@
 # import required libraries
 import os
 import sys
+
 from PIL import Image
 
 
